@@ -1,0 +1,19 @@
+.App {
+    text-align: center;
+}
+
+.jumbotron {
+    background-repeat: no-repeat;
+    background-size: 1365px;
+    background-attachment: fixed;
+    margin: auto;
+    padding: 2rem 0 2rem 0;
+}
+
+.container-fluid {
+    color: white;
+}
+
+.container {
+    padding: 1rem;
+}
